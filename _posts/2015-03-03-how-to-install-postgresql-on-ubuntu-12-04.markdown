@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-03-03 17:24:13
+date: 2015-03-03 17:24
 title: "how to install postgresql on ubuntu 12 04"
 ---
 
