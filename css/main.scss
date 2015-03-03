@@ -50,3 +50,8 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+pre > code {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
